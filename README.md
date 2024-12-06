@@ -1,6 +1,6 @@
 # ESprunki
 
-ESprunki is a fun and engaging online experience. Explore the exciting world of ESprunki and discover unique challenges and creative possibilities. Play [ESpunki](https://medium.com/@spunky-game/esprunki-755f845889b3)
+ESprunki is a fun and engaging online experience. Explore the exciting world of ESprunki and discover unique challenges and creative possibilities. Play [ESpunki medium](https://medium.com/@spunky-game/esprunki-755f845889b3)
 
 
 ---
@@ -17,7 +17,7 @@ ESprunki is a fun and engaging online experience. Explore the exciting world of 
 
 ## What is ESprunki? <a name="what-is-esprunki"></a>
 
-ESprunki is a dynamic online experience offering an entertaining and engaging adventure.  For related experiences, also check out [Spunky Game](https://medium.com/@spunky-game/spunky-game-c3a398492b22), [Spunki](https://medium.com/@spunky-game/sprunki-107a00541021), and [Spunky](https://medium.com/@spunky-game/spunky-f959485459a3).
+ESprunki is a dynamic online experience offering an entertaining and engaging adventure.  For related experiences, also check out [Spunky Game medium](https://medium.com/@spunky-game/spunky-game-c3a398492b22), [Spunki medium](https://medium.com/@spunky-game/sprunki-107a00541021), and [Spunky medium](https://medium.com/@spunky-game/spunky-f959485459a3).
 
 
 ---
